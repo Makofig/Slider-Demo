@@ -14,7 +14,7 @@ Este proyecto es una demo interactiva de un slider (carrusel de imágenes), desa
 
   Transiciones suaves animadas
 
-##🧰 Tecnologías Utilizadas
+## 🧰 Tecnologías Utilizadas
 
   HTML5
 

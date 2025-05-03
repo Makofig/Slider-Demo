@@ -13,7 +13,7 @@ Este proyecto es una demo interactiva de un slider (carrusel de imágenes), desa
   Soporte responsive (se adapta a distintos tamaños de pantalla)
 
   Transiciones suaves animadas
-
+  
 ## 🧰 Tecnologías Utilizadas
 
   HTML5

@@ -30,3 +30,6 @@ Este proyecto es una demo interactiva de un slider (carrusel de imágenes), desa
   🔗 Demo en Video
   📺 Mirá el tutorial completo en YouTube:
   - https://www.youtube.com/watch?v=j7GG009J9uc&t=4s&ab_channel=LunDev
+
+## 📘 Nota
+Este proyecto fue realizado únicamente con fines educativos siguiendo la guía de asmrProg. No está destinado para uso comercial.

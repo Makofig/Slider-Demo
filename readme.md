@@ -1,5 +1,6 @@
 ## 🎞️ Slider Demo — LunDev
-  Este proyecto es una demo interactiva de un slider (carrusel de imágenes), desarrollada para fines educativos, extraido del canal Lun Dev. El objetivo es mostrar el funcionamiento básico de un componente visual dinámico con transiciones suaves, navegación y soporte para contenido visual adaptable.
+
+Este proyecto es una demo interactiva de un slider (carrusel de imágenes), desarrollada para fines educativos, extraido del canal Lun Dev. El objetivo es mostrar el funcionamiento básico de un componente visual dinámico con transiciones suaves, navegación y soporte para contenido visual adaptable.
 
 ## ✨ Funcionalidades
 
@@ -23,10 +24,9 @@
 
 ## 📢 Autor
 
-  Lun Dev
   🔗 Canal de LunDev
-  https://www.youtube.com/@lundeveloper
-
-🔗 Demo en Video
-📺 Mirá el tutorial completo en YouTube:
-https://www.youtube.com/watch?v=j7GG009J9uc&t=4s&ab_channel=LunDev
+  - https://www.youtube.com/@lundeveloper
+  
+  🔗 Demo en Video
+  📺 Mirá el tutorial completo en YouTube:
+  - https://www.youtube.com/watch?v=j7GG009J9uc&t=4s&ab_channel=LunDev
